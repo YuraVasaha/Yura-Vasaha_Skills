@@ -5,6 +5,7 @@ that increase brand visibility, generate quality leads, and enhance customer acq
 email and content marketing, and paid advertising, with a focus on delivering measurable growth and strong 
 ROI.
 ### Skills
+#### Digital Marketing & SMM
 Analytics
 Google Analytics, Meta Business Suite, performance 
 tracking, campaign performance analysis
@@ -17,6 +18,7 @@ research, audience targeting, campaign optimization
 SEO
 On-page optimization, keyword research, 
 competitor analysis, basic link-building strategies
+#### Business Analysis
 Market Research & Strategy
 Research tools, trend analysis, audience 
 segmentation
